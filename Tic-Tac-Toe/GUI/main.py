@@ -3,11 +3,8 @@
 # ------------------------------------------------------------------.
 
 import numpy as np
-import turtle
-import random
 
 from tkinter import *
-from tkinter import messagebox
 
 # ------------------------------------------------------------------.
 # Setting the constants and colors. 

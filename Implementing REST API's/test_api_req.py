@@ -1,6 +1,6 @@
 import requests
 
-base_url = "http://127.0.0.1:5000/text-processing"
+base_url = "https://book-review-api-twy8.onrender.com/text-processing"
 
 params = {
     "text": "my name is ...   ",

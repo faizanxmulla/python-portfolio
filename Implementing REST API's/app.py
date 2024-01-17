@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 from flask_restful import Api, Resource
 from flasgger import Swagger
 
-import book_review
+from book_review import BookReview
 
 # ---------------------------------------------------------------
 
@@ -10,7 +10,7 @@ app = Flask(__name__)
 api = Api(app)
 swagger = Swagger(app)
 
-br = book_review.BookReview()
+br = BookReview()
 
 
 class BookReviewsResource(Resource):

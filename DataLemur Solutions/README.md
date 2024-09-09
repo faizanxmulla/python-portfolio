@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://datalemur.com/profile">
-        <img height=100 width=60%  src="https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75"> 
+        <img height=100 width=60%  src="https://datalemur.com/Logo.svg"> 
     </a>
     <br>
     <br>
@@ -15,6 +15,7 @@ The compiled solutions encompass all Python questions, ranging from `Easy` to `M
 
 Get access to `bonus content and exclusive prizes` for `BOTH` of us by signing-up, followed by email verification using this [referral code link.](https://datalemur.com?referralCode=i4hQy31f)
 
+![referral-code](https://github.com/user-attachments/assets/55b30950-8adb-4ddb-a411-eae549849d47)
 
 
 ## Solution Table
